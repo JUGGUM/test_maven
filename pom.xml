@@ -64,6 +64,16 @@
 			<artifactId>jakarta.validation-api</artifactId>
 			<version>3.0.2</version>
 		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava-parent</artifactId>
+			<version>31.1-jre</version>
+			<type>pom</type>
+		</dependency>
 	</dependencies>
 
 	<build>
