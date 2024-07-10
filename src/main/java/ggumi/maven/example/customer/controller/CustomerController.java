@@ -1,7 +1,7 @@
-package ggumi.maven.example.demo.controller;
+package ggumi.maven.example.customer.controller;
 
-import ggumi.maven.example.demo.entity.Customer;
-import ggumi.maven.example.demo.repository.CustomerRepository;
+import ggumi.maven.example.customer.entity.Customer;
+import ggumi.maven.example.customer.repository.CustomerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
